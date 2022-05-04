@@ -7,6 +7,7 @@ import java.util.Map;
  * @author stefan
  */
 public class StockController {
+    private Product product;
     /**
      * Add product to catalogue
      *
