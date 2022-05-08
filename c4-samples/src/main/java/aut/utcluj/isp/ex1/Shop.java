@@ -13,7 +13,7 @@ public class Shop {
 
     public Shop(String name) {
         this.city = "";
-        this.name = name;
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 
     public String getName() {
