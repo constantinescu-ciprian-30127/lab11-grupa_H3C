@@ -8,12 +8,12 @@ public class Shop {
     private String city;
 
     public Shop(String name, String city) {
-        throw new UnsupportedOperationException("nu exista:.");
+        throw new UnsupportedOperationException("bogdan");
     }
 
     public Shop(String name) {
         this.city = "";
-        throw new UnsupportedOperationException("Andra");
+        throw new UnsupportedOperationException("anca a fost aici");
     }
 
     public String getName() {
