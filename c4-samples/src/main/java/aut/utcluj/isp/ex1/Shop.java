@@ -13,7 +13,7 @@ public class Shop {
 
     public Shop(String name) {
         this.city = "";
-        throw new UnsupportedOperationException("Andra");
+        throw new UnsupportedOperationException("Andraacd");
     }
 
     public String getName() {
