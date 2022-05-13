@@ -11,6 +11,15 @@ public class Product {
         throw new UnsupportedOperationException("Not supported yet.");
     }
 
+    public void setPrice(Double price) {
+        this.price = price;
+    }
+
+    public void setProductId(String productId) {
+        this.productId = productId;
+    }
+    
+
     public String getProductId() {
         return productId;
     }
